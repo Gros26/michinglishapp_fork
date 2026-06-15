@@ -7,23 +7,23 @@
   "words": [
     {
       "id": 1,
-      "en": "yellow",
-      "es": "amarillo"
+      "en": "gold",
+      "es": "dorado"
     },
     {
       "id": 2,
-      "en": "purple",
-      "es": "morado"
+      "en": "silver",
+      "es": "plateado"
     },
     {
       "id": 3,
-      "en": "black",
-      "es": "negro"
+      "en": "beige",
+      "es": "beige"
     },
     {
       "id": 4,
-      "en": "white",
-      "es": "blanco"
+      "en": "maroon",
+      "es": "marrón oscuro"
     }
   ]
 }
