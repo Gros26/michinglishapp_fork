@@ -1,0 +1,29 @@
+{
+  "user": {
+    "username": "Juan David Lopez",
+    "profileImage": "https://avatars.githubusercontent.com/Juanitotk25",
+    "socialLink": "@jpjda"
+  },
+  "words": [
+    {
+      "id": 1,
+      "en": "yellow",
+      "es": "amarillo"
+    },
+    {
+      "id": 2,
+      "en": "purple",
+      "es": "morado"
+    },
+    {
+      "id": 3,
+      "en": "black",
+      "es": "negro"
+    },
+    {
+      "id": 4,
+      "en": "white",
+      "es": "blanco"
+    }
+  ]
+}
